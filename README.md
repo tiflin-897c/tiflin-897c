@@ -26,10 +26,11 @@ Soy un programador junior en constante aprendizaje, enfocado en mejorar cada dí
 
 <div align="center">
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" alt="C#"/>
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" alt="Kotlin"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" alt="C#"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/>
 &nbsp;
@@ -38,6 +39,8 @@ Soy un programador junior en constante aprendizaje, enfocado en mejorar cada dí
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" alt="Unity"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40px" alt="Android Studio"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" alt="IntelliJ IDEA"/>
 &nbsp;
@@ -50,5 +53,6 @@ Soy un programador junior en constante aprendizaje, enfocado en mejorar cada dí
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
 
 </div>
+
 
 
