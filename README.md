@@ -55,7 +55,7 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40px" alt="Ubuntu"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" style="background-color: white; border-radius: 6px; padding: 2px;"/>
+
 
 
 
