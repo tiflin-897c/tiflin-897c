@@ -1,29 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David
 
-# 👋 Hola, soy David
+Soy un programador junior en constante aprendizaje, enfocado en mejorar cada día mediante la práctica y el desarrollo de proyectos reales. Actualmente estoy en **búsqueda de oportunidades laborales** en el ámbito de la programación.
 
-Soy un programador junior con pasión por el desarrollo de software, el aprendizaje constante y la superación personal. Me interesa principalmente el desarrollo backend, aunque también estoy explorando frontend y otras áreas del ecosistema de programación.
+## 💻 Tecnologías que uso
 
-## 🚀 Tecnologías que manejo
+- **Lenguajes:** Java, C#, SQL, HTML, CSS
+- **Frameworks/Librerías:** AngularJS (enfocándome actualmente), React (básico)
+- **Otros:** Git, GitHub, VS Code, Node.js
 
-- **Lenguajes:** JavaScript, Python, Java
-- **Herramientas:** Git, GitHub, VS Code
-- **Frameworks/Librerías:** Node.js, Express, React (básico)
-- **Bases de datos:** MySQL, MongoDB (en proceso de aprendizaje)
+## 📚 En lo que estoy trabajando
 
-## 🎯 Objetivos actuales
+- Profundizando en **AngularJS**
+- Perfeccionando mis habilidades en **JavaScript**
+- Desarrollando proyectos personales para afianzar mis conocimientos
+- Haciendo **commits semanales** para mantener constancia y seguir creciendo
 
-- Mejorar mis habilidades como desarrollador full stack
-- Aprender buenas prácticas y patrones de diseño
-- Contribuir a proyectos open source
-- Construir un portafolio sólido con proyectos personales
+## 🌐 Más sobre mí
 
-## 📫 Cómo contactarme
+- 🔗 Portafolio web: 
+- 💼 LinkedIn: 
 
-- Email: [tu-correo@example.com]
-- LinkedIn: [linkedin.com/in/tuusuario]
-- GitHub: [github.com/tuusuario]
+---
 
-Gracias por visitar mi perfil. ¡Estoy abierto a colaboraciones, feedback y nuevas oportunidades!
+Gracias por pasarte por mi perfil. Si tenés sugerenciaS o propuestas , ¡escribime sin problema!
 
 
