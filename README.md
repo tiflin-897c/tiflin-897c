@@ -1,24 +1,24 @@
 # 👋 ¡Hola! Soy David
 
-Soy un programador junior en constante aprendizaje, enfocado en mejorar cada día mediante la práctica y el desarrollo de proyectos reales. Actualmente estoy en **búsqueda de oportunidades laborales** en el ámbito de la programación, tanto en backend como en frontend.
+Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir creciendo profesionalmente en el mundo de la programación.
 
-## 💻 Tecnologías que uso
+👀 Actualmente estoy buscando oportunidades laborales, tanto en frontend como en backend.
 
-- **Lenguajes:** Java, JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Librerías:** AngularJS (enfocándome actualmente), React (básico)
-- **Otros:** Git, GitHub, VS Code, Node.js
+💻 Trabajo con los siguientes lenguajes y tecnologías: Java, C#, Kotlin, HTML, CSS, JavaScript, PostgreSQL, y más.
 
-## 📚 En lo que estoy trabajando
+📱 He trabajado en proyectos personales con **Android Studio** y **Kotlin**, explorando el desarrollo móvil.
 
-- Profundizando en **AngularJS**
-- Perfeccionando mis habilidades en **JavaScript**
-- Desarrollando proyectos personales para afianzar mis conocimientos
-- Haciendo **commits semanales** para mantener constancia y seguir creciendo
+🧪 Realicé prácticas profesionales utilizando **C#**, adquiriendo experiencia en entornos reales de trabajo.
 
-## 🌐 Más sobre mí
+🎮 Actualmente estoy creando proyectos con **Unity**, con el objetivo de profundizar en el desarrollo de videojuegos, arquitectura de escenas, físicas, animaciones y lógica de juego.
 
-- 🔗 Portafolio web: 
-- 💼 LinkedIn: 
+📚 También me encuentro perfeccionando mis conocimientos en JavaScript, enfocándome en proyectos personales para mejorar mis habilidades.
+
+🔄 Me comprometo a hacer commits semanalmente para mantener mi actividad y progreso constante.
+
+🌐 Podés ver más sobre mí en mi portfolio web: [https://franinfanteporfolio.netlify.app](https://franinfanteporfolio.netlify.app)
+
+🔗 Conectá conmigo en LinkedIn: [https://www.linkedin.com/in/franinfante/](https://www.linkedin.com/in/franinfante/)
 
 ---
 
@@ -53,6 +53,7 @@ Soy un programador junior en constante aprendizaje, enfocado en mejorar cada dí
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
 
 </div>
+
 
 
 
