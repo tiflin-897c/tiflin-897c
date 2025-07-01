@@ -4,7 +4,7 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 👀 Actualmente estoy buscando oportunidades laborales, tanto en frontend como en backend.
 
-💻 Trabajo con los siguientes lenguajes y tecnologías: Java, C#, Kotlin, HTML, CSS, JavaScript, PostgreSQL, y más.
+💻 Trabajo con los siguientes lenguajes y tecnologías: Java, C# y Kotlin.
 
 📱 He trabajado en proyectos personales con **Android Studio** y **Kotlin**, explorando el desarrollo móvil.
 
@@ -12,9 +12,9 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 🎮 Actualmente estoy creando proyectos con **Unity**, con el objetivo de profundizar en el desarrollo de videojuegos, arquitectura de escenas, físicas, animaciones y lógica de juego.
 
-📚 También me encuentro perfeccionando mis conocimientos en JavaScript, enfocándome en proyectos personales para mejorar mis habilidades.
+📚 También me encuentro perfeccionando mis conocimientos en C#, enfocándome en proyectos personales para mejorar mis habilidades.
 
-🔄 Me comprometo a hacer commits semanalmente para mantener mi actividad y progreso constante.
+🔄 Publicando avances y mejoras para reflejar mi crecimiento.
 
 
 ## 🔗 Contacto
