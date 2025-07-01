@@ -4,8 +4,6 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 👀 Actualmente estoy buscando oportunidades laborales, tanto en frontend como en backend.
 
-💻 Trabajo con los siguientes lenguajes y tecnologías: Java, C# y Kotlin.
-
 📱 He trabajado en proyectos personales con **Android Studio** y **Kotlin**, explorando el desarrollo móvil.
 
 🧪 Realicé prácticas profesionales utilizando **C#**, adquiriendo experiencia en entornos reales de trabajo.
