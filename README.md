@@ -12,16 +12,15 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 📚 También me encuentro perfeccionando mis conocimientos en C#, enfocándome en proyectos personales para mejorar mis habilidades.
 
-🔄 Publicando avances y mejoras para reflejar mi crecimiento.
+🔄 Publicando avances y mejoras de forma regular para reflejar mi crecimiento.
 
+---
 
 ## 🔗 Contacto
 
-🌐 Portfolio: 
-
-🔗 LinkedIn:
-
-✉️ Correo:
+🌐 Portfolio:  
+🔗 LinkedIn:  
+✉️ Correo:  
 
 ---
 
@@ -54,8 +53,11 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40px" alt="Slack"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40px" alt="Ubuntu"/>
 
 </div>
+
 
 
 
