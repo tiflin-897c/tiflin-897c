@@ -17,11 +17,11 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 ## 🔗 Contacto
 
-🌐 Podés ver más sobre mí en mi portfolio web: 
+🌐 Portfolio: 
 
-🔗 Conectá conmigo en LinkedIn:
+🔗 LinkedIn:
 
-✉️ Correo electronico:
+✉️ Correo:
 
 ---
 
