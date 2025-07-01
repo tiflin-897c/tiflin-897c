@@ -8,7 +8,7 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 🧪 Realicé prácticas profesionales utilizando **C#**, adquiriendo experiencia en entornos reales de trabajo.
 
-🎮 Actualmente estoy creando proyectos con **Unity**, con el objetivo de profundizar en el desarrollo de videojuegos, arquitectura de escenas, físicas, animaciones y lógica de juego.
+🚀 Actualmente estoy trabajando de forma independiente en proyectos personales.
 
 📚 También me encuentro perfeccionando mis conocimientos en C#, enfocándome en proyectos personales para mejorar mis habilidades.
 
