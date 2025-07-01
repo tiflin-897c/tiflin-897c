@@ -17,8 +17,8 @@ Soy un programador junior en constante aprendizaje, enfocado en mejorar cada dí
 
 ## 🌐 Más sobre mí
 
-- 🔗 Portafolio web: [https://franinfanteporfolio.netlify.app](https://franinfanteporfolio.netlify.app)
-- 💼 LinkedIn: [https://www.linkedin.com/in/franinfante/](https://www.linkedin.com/in/franinfante/)
+- 🔗 Portafolio web: 
+- 💼 LinkedIn: 
 
 ---
 
