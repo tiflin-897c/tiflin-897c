@@ -16,9 +16,14 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 🔄 Me comprometo a hacer commits semanalmente para mantener mi actividad y progreso constante.
 
-🌐 Podés ver más sobre mí en mi portfolio web: [https://franinfanteporfolio.netlify.app](https://franinfanteporfolio.netlify.app)
 
-🔗 Conectá conmigo en LinkedIn: [https://www.linkedin.com/in/franinfante/](https://www.linkedin.com/in/franinfante/)
+## 🔗 Contacto
+
+🌐 Podés ver más sobre mí en mi portfolio web: 
+
+🔗 Conectá conmigo en LinkedIn:
+
+✉️ Correo electronico:
 
 ---
 
