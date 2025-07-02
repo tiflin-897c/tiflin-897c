@@ -20,9 +20,13 @@ Soy un desarrollador junior en constante aprendizaje, con muchas ganas de seguir
 
 ## 🔗 Contacto
 
-🌐 Portfolio:  
-🔗 LinkedIn:  
-✉️ Correo:  
+<ul>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://funny-medovik-8c51be.netlify.app/" target="_blank">https://funny-medovik-8c51be.netlify.app/</a></li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/david-mu%C3%B1oz-garc%C3%ADa-8525b4359/" target="_blank">https://www.linkedin.com/in/david-mu%C3%B1oz-garc%C3%ADa-8525b4359/</a></li>
+  <li>💻 <strong>GitHub:</strong> <a href="https://github.com/TU_USUARIO" target="_blank">https://github.com/TU_USUARIO</a></li>
+  <li>✉️ <strong>Correo:</strong> <a href="mailto:munozgarciadavid1@gmail.com">munozgarciadavid1@gmail.com</a></li>
+</ul>
+ 
 
 ---
 
